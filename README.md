@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Created with ❤️ by [Ashish](https://github.com/ashishpatel26/)
+
